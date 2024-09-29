@@ -1,0 +1,102 @@
+Görkem threw 4-6 and Görkem’s score is 10.
+Berra skipped the turn and Berra’s score is 0.
+Aslı threw 5-1 and Aslı’s score is 0.
+Umut threw 2-1 and Umut’s score is 0.
+Görkem threw 3-3 and Görkem’s score is 16.
+Berra threw 4-6 and Berra’s score is 10.
+Aslı threw 5-3 and Aslı’s score is 8.
+Umut threw 1-2 and Umut’s score is 0.
+Görkem threw 6-1 and Görkem’s score is 16.
+Berra threw 6-2 and Berra’s score is 18.
+Aslı threw 5-3 and Aslı’s score is 16.
+Umut threw 3-2 and Umut’s score is 5.
+Görkem skipped the turn and Görkem’s score is 16.
+Berra threw 2-3 and Berra’s score is 23.
+Aslı threw 5-3 and Aslı’s score is 24.
+Umut threw 3-2 and Umut’s score is 10.
+Görkem threw 5-4 and Görkem’s score is 25.
+Berra threw 1-2 and Berra’s score is 23.
+Aslı threw 2-5 and Aslı’s score is 31.
+Umut threw 1-6 and Umut’s score is 10.
+Görkem threw 4-2 and Görkem’s score is 31.
+Berra threw 1-4 and Berra’s score is 23.
+Aslı threw 4-4 and Aslı’s score is 39.
+Umut threw 1-3 and Umut’s score is 10.
+Görkem threw 2-3 and Görkem’s score is 36.
+Berra threw 2-6 and Berra’s score is 31.
+Aslı threw 2-6 and Aslı’s score is 47.
+Umut threw 1-6 and Umut’s score is 10.
+Görkem threw 5-6 and Görkem’s score is 47.
+Berra threw 3-5 and Berra’s score is 39.
+Aslı threw 6-3 and Aslı’s score is 56.
+Umut threw 2-1 and Umut’s score is 10.
+Görkem threw 3-3 and Görkem’s score is 53.
+Berra threw 5-3 and Berra’s score is 47.
+Aslı threw 2-5 and Aslı’s score is 63.
+Umut threw 5-5 and Umut’s score is 20.
+Görkem threw 4-6 and Görkem’s score is 63.
+Berra threw 4-2 and Berra’s score is 53.
+Aslı threw 2-4 and Aslı’s score is 69.
+Umut threw 6-6 and Umut’s score is 32.
+Görkem threw 4-1 and Görkem’s score is 63.
+Berra threw 2-1 and Berra’s score is 53.
+Aslı threw 6-1 and Aslı’s score is 69.
+Umut threw 2-6 and Umut’s score is 40.
+Görkem threw 5-3 and Görkem’s score is 71.
+Berra skipped the turn and Berra’s score is 53.
+Aslı threw 5-4 and Aslı’s score is 78.
+Umut threw 1-1. Game over Umut!
+Görkem threw 4-3 and Görkem’s score is 78.
+Berra threw 1-3 and Berra’s score is 53.
+Aslı threw 4-6 and Aslı’s score is 88.
+Görkem threw 6-4 and Görkem’s score is 88.
+Berra threw 5-4 and Berra’s score is 62.
+Aslı threw 1-6 and Aslı’s score is 88.
+Görkem threw 2-2 and Görkem’s score is 92.
+Berra threw 5-4 and Berra’s score is 71.
+Aslı threw 4-2 and Aslı’s score is 94.
+Görkem threw 6-4 and Görkem’s score is 102.
+Berra threw 4-4 and Berra’s score is 79.
+Aslı threw 4-4 and Aslı’s score is 102.
+Görkem threw 4-3 and Görkem’s score is 109.
+Berra threw 4-1 and Berra’s score is 79.
+Aslı threw 2-1 and Aslı’s score is 102.
+Görkem threw 5-6 and Görkem’s score is 120.
+Berra threw 1-5 and Berra’s score is 79.
+Aslı threw 4-1 and Aslı’s score is 102.
+Görkem threw 5-6 and Görkem’s score is 131.
+Berra threw 2-6 and Berra’s score is 87.
+Aslı threw 2-4 and Aslı’s score is 108.
+Görkem threw 4-2 and Görkem’s score is 137.
+Berra threw 4-2 and Berra’s score is 93.
+Aslı threw 6-2 and Aslı’s score is 116.
+Görkem threw 6-6 and Görkem’s score is 149.
+Berra threw 3-3 and Berra’s score is 99.
+Aslı threw 1-4 and Aslı’s score is 116.
+Görkem threw 3-1 and Görkem’s score is 149.
+Berra threw 3-5 and Berra’s score is 107.
+Aslı threw 1-3 and Aslı’s score is 116.
+Görkem threw 5-2 and Görkem’s score is 156.
+Berra threw 1-5 and Berra’s score is 107.
+Aslı threw 3-3 and Aslı’s score is 122.
+Görkem threw 6-5 and Görkem’s score is 167.
+Berra threw 3-3 and Berra’s score is 113.
+Aslı threw 4-5 and Aslı’s score is 131.
+Görkem threw 1-4 and Görkem’s score is 167.
+Berra threw 4-4 and Berra’s score is 121.
+Aslı threw 3-3 and Aslı’s score is 137.
+Görkem skipped the turn and Görkem’s score is 167.
+Berra threw 3-3 and Berra’s score is 127.
+Aslı threw 1-1. Game over Aslı!
+Görkem threw 6-6 and Görkem’s score is 179.
+Berra threw 4-6 and Berra’s score is 137.
+Görkem threw 1-4 and Görkem’s score is 179.
+Berra skipped the turn and Berra’s score is 137.
+Görkem threw 5-5 and Görkem’s score is 189.
+Berra threw 2-1 and Berra’s score is 137.
+Görkem threw 6-3 and Görkem’s score is 198.
+Berra threw 1-3 and Berra’s score is 137.
+Görkem threw 6-2 and Görkem’s score is 206.
+Berra threw 2-6 and Berra’s score is 145.
+Görkem threw 1-1. Game over Görkem!
+Berra is the winner of the game with the score of 145. Congratulations Berra!

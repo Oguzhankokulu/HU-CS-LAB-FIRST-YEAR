@@ -1,0 +1,307 @@
+--------------------------------
+Calculating 1. Fibonacci number:
+fib(1) = 1
+1. Fibonacci number is: 1
+--------------------------------
+Calculating 2. Fibonacci number:
+fib(2) = 1
+2. Fibonacci number is: 1
+--------------------------------
+Calculating 3. Fibonacci number:
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+3. Fibonacci number is: 2
+--------------------------------
+Calculating 4. Fibonacci number:
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+4. Fibonacci number is: 3
+--------------------------------
+Calculating 5. Fibonacci number:
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+5. Fibonacci number is: 5
+--------------------------------
+Calculating 6. Fibonacci number:
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+6. Fibonacci number is: 8
+--------------------------------
+Calculating 7. Fibonacci number:
+fib(7) = fib(6) + fib(5)
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+7. Fibonacci number is: 13
+--------------------------------
+Calculating 8. Fibonacci number:
+fib(8) = fib(7) + fib(6)
+fib(7) = fib(6) + fib(5)
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+8. Fibonacci number is: 21
+--------------------------------
+Calculating 9. Fibonacci number:
+fib(9) = fib(8) + fib(7)
+fib(8) = fib(7) + fib(6)
+fib(7) = fib(6) + fib(5)
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(7) = fib(6) + fib(5)
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+9. Fibonacci number is: 34
+--------------------------------
+Calculating 10. Fibonacci number:
+fib(10) = fib(9) + fib(8)
+fib(9) = fib(8) + fib(7)
+fib(8) = fib(7) + fib(6)
+fib(7) = fib(6) + fib(5)
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(7) = fib(6) + fib(5)
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(8) = fib(7) + fib(6)
+fib(7) = fib(6) + fib(5)
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(6) = fib(5) + fib(4)
+fib(5) = fib(4) + fib(3)
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(4) = fib(3) + fib(2)
+fib(3) = fib(2) + fib(1)
+fib(2) = 1
+fib(1) = 1
+fib(2) = 1
+10. Fibonacci number is: 55
+--------------------------------

@@ -1,0 +1,21 @@
+ADD	Book	Demons	Dostoyevsky	1000	50.99
+ADD	Book	Ulysses	Joyce	1001	250.50
+ADD	Stationery	stationery1	pen	1002	60.95
+ADD	Toy	truck	brown	1003	1000.00
+ADD	Toy	soldier	green	1004	5.99
+ADD	Book	Hunger	Hamsun	1005	10.25
+ADD	Stationery	stationery2	stapler	1006	50.50
+ADD	Book	Nausea	Sartre	1007	59.99
+ADD	Stationery	stationery3	paper	1008	10.00
+ADD	Toy	Barbie	yellow	1009	150.00
+DISPLAY
+REMOVE	2000
+SEARCHBYBARCODE	1007
+ADD	Book	Ilyada	Homeros	1010	121.99
+SEARCHBYBARCODE	1010
+REMOVE	1005
+DISPLAY
+SEARCHBYNAME	soldier
+ADD	Stationery	stationery4	notebook	2000	75.00
+SEARCHBYBARCODE	1
+DISPLAY

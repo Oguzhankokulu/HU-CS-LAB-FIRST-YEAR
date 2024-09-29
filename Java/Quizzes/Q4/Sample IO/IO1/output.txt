@@ -1,0 +1,47 @@
+INVENTORY:
+Author of the Tutunamayanlar is Oguz. Its barcode is 123 and its price is 150.99
+Author of the Sefiller is Hugo. Its barcode is 126 and its price is 199.9
+Color of the puzzle is blue. Its barcode is 124 and its price is 100.49
+Color of the car is red. Its barcode is 127 and its price is 10.95
+Color of the lego is purple. Its barcode is 129 and its price is 4.55
+Kind of the stationery1 is pencil. Its barcode is 125 and its price is 50.99
+Kind of the stationery2 is eraser. Its barcode is 128 and its price is 12.12
+------------------------------
+REMOVE RESULTS:
+Item is removed.
+------------------------------
+SEARCH RESULTS:
+Color of the car is red. Its barcode is 127 and its price is 10.95
+------------------------------
+SEARCH RESULTS:
+Item is not found.
+------------------------------
+INVENTORY:
+Author of the Sefiller is Hugo. Its barcode is 126 and its price is 199.9
+Color of the puzzle is blue. Its barcode is 124 and its price is 100.49
+Color of the car is red. Its barcode is 127 and its price is 10.95
+Color of the lego is purple. Its barcode is 129 and its price is 4.55
+Kind of the stationery1 is pencil. Its barcode is 125 and its price is 50.99
+Kind of the stationery2 is eraser. Its barcode is 128 and its price is 12.12
+------------------------------
+SEARCH RESULTS:
+Item is not found.
+------------------------------
+SEARCH RESULTS:
+Kind of the stationery1 is pencil. Its barcode is 125 and its price is 50.99
+------------------------------
+REMOVE RESULTS:
+Item is not found.
+------------------------------
+SEARCH RESULTS:
+Item is not found.
+------------------------------
+INVENTORY:
+Author of the Sefiller is Hugo. Its barcode is 126 and its price is 199.9
+Author of the Sapiens is Harari. Its barcode is 130 and its price is 200.99
+Color of the puzzle is blue. Its barcode is 124 and its price is 100.49
+Color of the car is red. Its barcode is 127 and its price is 10.95
+Color of the lego is purple. Its barcode is 129 and its price is 4.55
+Kind of the stationery1 is pencil. Its barcode is 125 and its price is 50.99
+Kind of the stationery2 is eraser. Its barcode is 128 and its price is 12.12
+------------------------------

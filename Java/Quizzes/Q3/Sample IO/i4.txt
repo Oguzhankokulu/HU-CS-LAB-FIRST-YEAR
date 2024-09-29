@@ -1,0 +1,6 @@
+S->XY|TU|xy
+X->ab|xy|cd
+Y->kl|mn|op
+G->qwe|asd|zxc
+T->qw|er|ty
+U->as|df|gh

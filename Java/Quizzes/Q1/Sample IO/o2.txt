@@ -1,0 +1,22 @@
+Berra threw 1-4 and Berra’s score is 0.
+Görkem threw 2-1 and Görkem’s score is 0.
+Berra threw 6-3 and Berra’s score is 9.
+Görkem threw 6-2 and Görkem’s score is 8.
+Berra threw 5-6 and Berra’s score is 20.
+Görkem threw 2-6 and Görkem’s score is 16.
+Berra skipped the turn and Berra’s score is 20.
+Görkem threw 6-4 and Görkem’s score is 26.
+Berra threw 6-1 and Berra’s score is 20.
+Görkem threw 4-3 and Görkem’s score is 33.
+Berra threw 3-5 and Berra’s score is 28.
+Görkem threw 2-3 and Görkem’s score is 38.
+Berra skipped the turn and Berra’s score is 28.
+Görkem threw 5-4 and Görkem’s score is 47.
+Berra threw 2-3 and Berra’s score is 33.
+Görkem threw 5-1 and Görkem’s score is 47.
+Berra skipped the turn and Berra’s score is 33.
+Görkem threw 5-4 and Görkem’s score is 56.
+Berra threw 4-4 and Berra’s score is 41.
+Görkem threw 5-4 and Görkem’s score is 65.
+Berra threw 1-1. Game over Berra!
+Görkem is the winner of the game with the score of 65. Congratulations Görkem!

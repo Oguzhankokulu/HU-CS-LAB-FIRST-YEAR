@@ -1,0 +1,16 @@
+ADD	Toy	toy1	pink	100	15.99
+DISPLAY
+ADD	Book	book1	author1	200	19.99
+ADD	Book	Daha	Hakan	300	199.90
+ADD	Stationery	Faber	pen	400	50.00
+ADD	Stationery	Rotring	pencil	1000	258.99
+SEARCHBYNAME	Daha
+ADD	Toy	dinosaur	black	1001	119.99
+SEARCHBYBARCODE	125
+DISPLAY
+REMOVE	200
+SEARCHBYNAME	book1
+ADD	Book	Odyssey	Homeros	1002	187.75
+REMOVE	19
+DISPLAY
+SEARCHBYBARCODE	100

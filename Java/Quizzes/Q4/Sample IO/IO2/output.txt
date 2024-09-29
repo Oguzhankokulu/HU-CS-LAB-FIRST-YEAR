@@ -1,0 +1,55 @@
+INVENTORY:
+Author of the Demons is Dostoyevsky. Its barcode is 1000 and its price is 50.99
+Author of the Ulysses is Joyce. Its barcode is 1001 and its price is 250.5
+Author of the Hunger is Hamsun. Its barcode is 1005 and its price is 10.25
+Author of the Nausea is Sartre. Its barcode is 1007 and its price is 59.99
+Color of the truck is brown. Its barcode is 1003 and its price is 1000.0
+Color of the soldier is green. Its barcode is 1004 and its price is 5.99
+Color of the Barbie is yellow. Its barcode is 1009 and its price is 150.0
+Kind of the stationery1 is pen. Its barcode is 1002 and its price is 60.95
+Kind of the stationery2 is stapler. Its barcode is 1006 and its price is 50.5
+Kind of the stationery3 is paper. Its barcode is 1008 and its price is 10.0
+------------------------------
+REMOVE RESULTS:
+Item is not found.
+------------------------------
+SEARCH RESULTS:
+Author of the Nausea is Sartre. Its barcode is 1007 and its price is 59.99
+------------------------------
+SEARCH RESULTS:
+Author of the Ilyada is Homeros. Its barcode is 1010 and its price is 121.99
+------------------------------
+REMOVE RESULTS:
+Item is removed.
+------------------------------
+INVENTORY:
+Author of the Demons is Dostoyevsky. Its barcode is 1000 and its price is 50.99
+Author of the Ulysses is Joyce. Its barcode is 1001 and its price is 250.5
+Author of the Nausea is Sartre. Its barcode is 1007 and its price is 59.99
+Author of the Ilyada is Homeros. Its barcode is 1010 and its price is 121.99
+Color of the truck is brown. Its barcode is 1003 and its price is 1000.0
+Color of the soldier is green. Its barcode is 1004 and its price is 5.99
+Color of the Barbie is yellow. Its barcode is 1009 and its price is 150.0
+Kind of the stationery1 is pen. Its barcode is 1002 and its price is 60.95
+Kind of the stationery2 is stapler. Its barcode is 1006 and its price is 50.5
+Kind of the stationery3 is paper. Its barcode is 1008 and its price is 10.0
+------------------------------
+SEARCH RESULTS:
+Color of the soldier is green. Its barcode is 1004 and its price is 5.99
+------------------------------
+SEARCH RESULTS:
+Item is not found.
+------------------------------
+INVENTORY:
+Author of the Demons is Dostoyevsky. Its barcode is 1000 and its price is 50.99
+Author of the Ulysses is Joyce. Its barcode is 1001 and its price is 250.5
+Author of the Nausea is Sartre. Its barcode is 1007 and its price is 59.99
+Author of the Ilyada is Homeros. Its barcode is 1010 and its price is 121.99
+Color of the truck is brown. Its barcode is 1003 and its price is 1000.0
+Color of the soldier is green. Its barcode is 1004 and its price is 5.99
+Color of the Barbie is yellow. Its barcode is 1009 and its price is 150.0
+Kind of the stationery1 is pen. Its barcode is 1002 and its price is 60.95
+Kind of the stationery2 is stapler. Its barcode is 1006 and its price is 50.5
+Kind of the stationery3 is paper. Its barcode is 1008 and its price is 10.0
+Kind of the stationery4 is notebook. Its barcode is 2000 and its price is 75.0
+------------------------------

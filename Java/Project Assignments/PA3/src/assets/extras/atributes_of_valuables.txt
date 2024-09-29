@@ -1,0 +1,11 @@
+Mineral Name	Points†	Worth($)	Weight(kg)	Min. depth	Common depth
+Ironium	150	30	10	-25 ft	-25 ft
+Bronzium	300	60	10	-25 ft	-25 ft
+Silverium	500	100	10	-25 ft	-25 ft
+Goldium	1250	250	20	-25 ft	-250 ft
+Platinum	3750	750	30	-800 ft	-1700 ft
+Einsteinium	10000	2000	40	-1600 ft	-2600 ft
+Emerald	25000	5000	60	-2400 ft	-4000 ft
+Ruby	100000	20000	80	-4000 ft	-4800 ft
+Diamond	500000	100000	100	-4400 ft	-5700 ft
+Amazonite	500000	500000	120	-5500 ft	-6200 ft

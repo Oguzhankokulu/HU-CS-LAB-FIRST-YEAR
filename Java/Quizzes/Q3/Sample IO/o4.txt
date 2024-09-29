@@ -1,0 +1,1 @@
+((ab|xy|cd)(kl|mn|op)|(qw|er|ty)(as|df|gh)|xy)

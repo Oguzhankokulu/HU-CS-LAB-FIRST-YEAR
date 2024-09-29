@@ -1,0 +1,9 @@
+1 threw 2-2 and 1’s score is 4.
+2 threw 1-1. Game over 2!
+3 threw 3-4 and 3’s score is 7.
+4 threw 1-1. Game over 4!
+5 threw 5-6 and 5’s score is 11.
+1 threw 1-5 and 1’s score is 4.
+3 threw 1-1. Game over 3!
+5 threw 1-1. Game over 5!
+1 is the winner of the game with the score of 4. Congratulations 1!

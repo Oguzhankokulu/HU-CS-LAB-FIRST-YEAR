@@ -1,0 +1,7 @@
+Classroom C1 used 264m2 of Paint for walls and used 13 Tiles for flooring, these costed 6838TL.
+Classroom C2 used 899m2 of Paint for walls and used 24 Tiles for flooring, these costed 20370TL.
+Classroom C3 used 782m2 of Wallpaper for walls and used 30 Tiles for flooring, these costed 38190TL.
+Classroom C4 used 255m2 of Paint for walls and used 22 Tiles for flooring, these costed 7730TL.
+Classroom C5 used 374 Tiles for walls and used 48 Tiles for flooring, these costed 49680TL.
+Classroom C6 used 60 Tiles for walls and used 24 Tiles for flooring, these costed 8880TL.
+Total price is: 131688TL.

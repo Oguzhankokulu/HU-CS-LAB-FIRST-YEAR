@@ -1,0 +1,37 @@
+INVENTORY:
+Color of the toy1 is pink. Its barcode is 100 and its price is 15.99
+------------------------------
+SEARCH RESULTS:
+Author of the Daha is Hakan. Its barcode is 300 and its price is 199.9
+------------------------------
+SEARCH RESULTS:
+Item is not found.
+------------------------------
+INVENTORY:
+Author of the book1 is author1. Its barcode is 200 and its price is 19.99
+Author of the Daha is Hakan. Its barcode is 300 and its price is 199.9
+Color of the toy1 is pink. Its barcode is 100 and its price is 15.99
+Color of the dinosaur is black. Its barcode is 1001 and its price is 119.99
+Kind of the Faber is pen. Its barcode is 400 and its price is 50.0
+Kind of the Rotring is pencil. Its barcode is 1000 and its price is 258.99
+------------------------------
+REMOVE RESULTS:
+Item is removed.
+------------------------------
+SEARCH RESULTS:
+Item is not found.
+------------------------------
+REMOVE RESULTS:
+Item is not found.
+------------------------------
+INVENTORY:
+Author of the Daha is Hakan. Its barcode is 300 and its price is 199.9
+Author of the Odyssey is Homeros. Its barcode is 1002 and its price is 187.75
+Color of the toy1 is pink. Its barcode is 100 and its price is 15.99
+Color of the dinosaur is black. Its barcode is 1001 and its price is 119.99
+Kind of the Faber is pen. Its barcode is 400 and its price is 50.0
+Kind of the Rotring is pencil. Its barcode is 1000 and its price is 258.99
+------------------------------
+SEARCH RESULTS:
+Color of the toy1 is pink. Its barcode is 100 and its price is 15.99
+------------------------------

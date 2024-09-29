@@ -1,0 +1,18 @@
+ADD	Book	Tutunamayanlar	Oguz	123	150.99
+ADD	Toy	puzzle	blue	124	100.49
+ADD	Stationery	stationery1	pencil	125	50.99
+ADD	Book	Sefiller	Hugo	126	199.90
+ADD	Toy	car	red	127	10.95
+ADD	Stationery	stationery2	eraser	128	12.12
+ADD	Toy	lego	purple	129	4.55
+DISPLAY
+REMOVE	123
+SEARCHBYBARCODE	127
+SEARCHBYBARCODE	1
+DISPLAY
+SEARCHBYBARCODE	131
+SEARCHBYNAME	stationery1
+REMOVE	2
+SEARCHBYNAME	Seas
+ADD	Book	Sapiens	Harari	130	200.99
+DISPLAY
